@@ -2,11 +2,17 @@
 
 双击一个 HTML 文件，在本机给 PDF 加上可打印的矢量花边。普通使用无需安装软件或上传文档。
 
+**[⬇ 直接下载 PaperAtelier.html（v0.1.0-beta.1，约 6.35 MB）](https://github.com/DieBlaueBlume/paper-atelier/releases/download/v0.1.0-beta.1/PaperAtelier.html)**
+
+**日常使用只需下载这一个 HTML 文件。** 程序、花边素材和依赖已内置，下载后用桌面版 Edge 或 Chrome 打开，断网也能使用。
+
+`PaperAtelier.html` 放在 **Releases 的发布附件**中。从仓库首页寻找时，点击右侧 **Releases → v0.1.0-beta.1 → 展开 Assets → PaperAtelier.html**。也可以直接进入[发布页](https://github.com/DieBlaueBlume/paper-atelier/releases/tag/v0.1.0-beta.1)找到它。
+
 ![同一页添加花边前后对比，左为原稿，右为手绘角花](docs/before-after.png)
 
 ## 开始使用
 
-1. 从发布附件下载 **PaperAtelier.html**，用桌面版 Edge 或 Chrome 打开。
+1. 点击上方的直接下载链接，保存 **PaperAtelier.html**，用桌面版 Edge 或 Chrome 打开。
 2. 拖入 PDF，在「花卉」「枝叶与果实」「几何纹样」「线条与织纹」中选择样式，或进入 DIY 拼花编辑器。
 3. 调节宽度、颜色和距纸边的距离。按需选择封面、全部页面或输入页码，例如 `2-10, 12`。
 4. 点击「导出 PDF」，在下载记录中打开带花边的副本。
